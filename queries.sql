@@ -1,5 +1,5 @@
 
---Crete DB
+--Create DB
 
 CREATE database vehicle_rental_db
 

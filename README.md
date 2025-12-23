@@ -1,4 +1,4 @@
-#  Vehicle Rental System - Database Project
+#  Vehicle Rental System 
 
 ##  Overview
 Welcome to my Vehicle Rental System database project! This project was designed to solve a real-world problem: managing a fleet of vehicles, handling customer bookings, and maintaining user records efficiently. 
