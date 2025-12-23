@@ -32,7 +32,7 @@ I have included four specific queries in this project to handle common business 
 
 ##  How to Use This Project
 1.  Open the `queries.sql` file.
-2.  Copy the code into your PostgreSQL editor (like pgAdmin or an online SQL runner).
+2.  Copy the code into your PostgreSQL editor (like pgAdmin or an Beekeper studio).
 3.  Run the **Schema** section first, then the **Insert** section, and finally the **Queries** to see the magic!
 
 
